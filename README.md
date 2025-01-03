@@ -1,6 +1,6 @@
 
 
-<img src="/src/assets/demonstração-teste.png />
+![Demonstração do Teste](https://github.com/MatheusNoronhadaSilva/teste-tecnico-front/blob/main/src/assets/demonstra%C3%A7%C3%A3o-teste.png?raw=true)
 
 
 
