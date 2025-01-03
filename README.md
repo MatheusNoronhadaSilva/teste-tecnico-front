@@ -1,6 +1,6 @@
 
 
-<img src="/src/assets/demonstração-teste.png></img>
+<img src="/src/assets/demonstração-teste.png />
 
 
 
